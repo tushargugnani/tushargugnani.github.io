@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hello, I am Tushar. I am a web developer. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I post here about my observations, learnings, hobbies and other things. 
