@@ -7,4 +7,8 @@ As a software developer here are a few things which can make sure you exceed the
 
 1. Whenever a task is assigned to you, make sure there is a way to notify client that you have taken a note of it and you'll be working on it. 
 2. In case of urgent issues, I make sure to reply to the mail as soon as I read it, so that the client is aware that I am looking into the issue. 
-3. 
+3. After solving a issue or developing a feature always make sure to test it manually, no matter how trivial you think it is (I often miss on this point, so I need to work on this.)
+4. Always try to include a few feature / unit test to go along with the issue / feature. Even though it hasnt been asked. You will often find a few edge cases while writing the tests which you forgot during the manual testing.
+5. When submitting the code for review, try including a screencast of the demo of the feature you developed, so that the reviewer has a easier time navigating through the changes. 
+6. If it's a UI Fix, include a screenshot of the change that you made. 
+
