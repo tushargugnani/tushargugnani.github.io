@@ -45,7 +45,7 @@ Before you realize what happened, the Chennai dugout is out on the field running
 Dhoni who was sitting in the dugout with disappointment now gets up and is now smiling, he is relieved. Jadeja comes towards him running, he hugs and pulls him up on him. Such a heart touching moment in both Jadeja’s and Dhoni’s cricketing journey. I almost chocked up.
 
 {% raw %}
-<video width="480" height="720" style="display:block margin:0" preload="auto" muted loop controls>
+<video width="480" height="720" style="display:block; margin:0" preload="auto" muted loop controls>
   <source src="/images/jadeja-hugging-dhoni.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
