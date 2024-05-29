@@ -1,3 +1,6 @@
+---
+featured_image: /images/csk-dhoni-jadeja-rayadu.png
+---
 The game of cricket never cease to amaze me. Every time I witness a cricketing moment which I think could never get topped by any other, there comes a match which makes me fall in love again with this game.
 
 It’s IPL 2023 final, CSK vs GT, and the game has gone into a second day as the planned first day was washed out. Fans were speculating it as a last game of MSD, and thus this game holds more importance than just a final for a Dhoni fan.
