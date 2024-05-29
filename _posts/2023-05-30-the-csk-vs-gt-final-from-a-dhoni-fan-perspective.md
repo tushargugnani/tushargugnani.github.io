@@ -35,7 +35,7 @@ Before you realize what happened, the Chennai dugout is out on the field running
 
 {% raw %}
 <video width="100%" preload="auto" muted loop>
-  <source src="{{ site.baseurl }}/images/gt-vs-csk-2023-final-last-over.mp4" type="video/mp4">
+  <source src="/images/gt-vs-csk-2023-final-last-over.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 {% endraw %}
