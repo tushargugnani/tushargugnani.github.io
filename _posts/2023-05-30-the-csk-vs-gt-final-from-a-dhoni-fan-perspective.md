@@ -1,5 +1,6 @@
 ---
 featured_image: /images/csk-dhoni-jadeja-rayadu.png
+title: The CSK vs GT Final from a Dhoni's Fan perspective
 ---
 The game of cricket never cease to amaze me. Every time I witness a cricketing moment which I think could never get topped by any other, there comes a match which makes me fall in love again with this game.
 
