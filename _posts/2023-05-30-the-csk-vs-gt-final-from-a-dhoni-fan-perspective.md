@@ -33,12 +33,12 @@ But aren’t last ball losses hurt more than the second last ball loss. I am now
 
 Before you realize what happened, the Chennai dugout is out on the field running, Jadeja is pumped, he is running towards the teammates. I am feeling the adrenaline rush, the impossible has happened.
 
-
-<video width=100% preload="auto" muted loop>
+{% raw %}
+<video width="100%" preload="auto" muted loop>
   <source src="{{ site.baseurl }}/images/gt-vs-csk-2023-final-last-over.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+{% endraw %}
 
 ## The Post Match Emotions
 
