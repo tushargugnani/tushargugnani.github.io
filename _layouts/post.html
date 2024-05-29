@@ -5,6 +5,9 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    {%- if page.featured_image -%}
+    <img featured-image="{{ page.featured_image }}" class="featured-image" src="{{ page.featured_image | relative_url }}" alt="{{ page.title | escape }}" itemprop="image">
+    {%- endif -%}
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
