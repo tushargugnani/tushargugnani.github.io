@@ -3,7 +3,7 @@ featured_image: /images/i-came-upon-lighhouse.webp
 title: Book Review, I came upon a lighthouse by Shantanu Naidu
 ---
 
-I have been recently going to Crossword with my 6 year old daughter since she has picked up habbit of reading and during the last visit I picked up book titled I came upon a lighthouse by Shantanu Naidu. It's a book written by a 27 year old boy who founded an Startup named Motopaws and was in the media mainly because of his association with Mr. Ratan Tata
+I have been recently going to Crossword with my 6 year old daughter since she has picked up habbit of reading and during the last visit I picked up book titled [I came upon a lighthouse by Shantanu Naidu](https://amzn.to/3Wht5cD). It's a book written by a 27 year old boy who founded an Startup named Motopaws and was in the media mainly because of his association with Mr. Ratan Tata
 
 I picked up this book mostly to know a bit more about Mr. Ratan Tata. However, I really liked the way Shantanu has done the storytelling and introduced his Wit and humour between the lines. It was an easy read.
 
