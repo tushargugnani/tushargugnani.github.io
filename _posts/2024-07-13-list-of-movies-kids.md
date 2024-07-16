@@ -1,6 +1,5 @@
 ---
-featured_image: /images/i-came-upon-lighhouse.webp
-title: Lis of Hindi Movies for Kids
+title: List of Hindi Movies for Kids
 ---
 
 - Taare Zameen Par
